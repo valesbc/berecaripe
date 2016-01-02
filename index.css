@@ -2956,8 +2956,8 @@ background: linear-gradient(to left, #560076, #a06cb4); /* W3C, IE 10+/ Edge, Fi
 	}
 
 	#contact a {
-			color: #999;
-			color: rgba(185, 186, 187, 0.5);
+			color: #7d4196;
+			/*color: rgba(185, 186, 187, 0.5);*/
 		}
 
 		#contact .box {
