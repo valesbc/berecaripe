@@ -2995,7 +2995,7 @@ background: linear-gradient(to left, #560076, #a06cb4); /* W3C, IE 10+/ Edge, Fi
 	}
 /*changes colors of icons for social media*/
 		#footer a {
-			color: #999;
+			color: #fff;
 			/*color: rgba(185, 186, 187, 0.5);*/
 		}
 
