@@ -1,4 +1,5 @@
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300);
 @import url("font-awesome.min.css");
 
 /*
@@ -1802,7 +1803,8 @@
 	body {
 		background: #fff;
 		height: 100%;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Ubuntu', sans-serif;
+		/*font-family: 'Source Sans Pro', sans-serif;*/
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
@@ -2950,6 +2952,11 @@ background: linear-gradient(to left, #560076, #a06cb4); /* W3C, IE 10+/ Edge, Fi
 		overflow: hidden;
 	}
 
+	#contact a {
+			color: #999;
+			color: rgba(185, 186, 187, 0.5);
+		}
+
 		#contact .box {
 			-moz-transition: all 1s ease;
 			-webkit-transition: all 1s ease;
@@ -2983,7 +2990,7 @@ background: linear-gradient(to left, #560076, #a06cb4); /* W3C, IE 10+/ Edge, Fi
 		color: rgba(185, 186, 187, 0.5);
 		overflow: hidden;
 	}
-
+/*changes colors of icons for social media*/
 		#footer a {
 			color: #999;
 			color: rgba(185, 186, 187, 0.5);
