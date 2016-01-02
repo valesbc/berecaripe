@@ -2893,7 +2893,8 @@ background: linear-gradient(to left, #560076, #a06cb4); /* W3C, IE 10+/ Edge, Fi
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
+		background-image: url(http://berecaripedesign.weebly.com/uploads/3/9/8/4/39848335/1272881_orig.jpg);
+		/*background: url("images/overlay.png"), url("../../images/one.jpg");*/
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2902,8 +2903,10 @@ background: linear-gradient(to left, #560076, #a06cb4); /* W3C, IE 10+/ Edge, Fi
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
-		background-size: 256px 256px, cover;
+		background: url(http://berecaripedesign.weebly.com/uploads/3/9/8/4/39848335/1040571_orig.jpg);
+		background-size: 100%;
+		/*background-size: 256px 256px, cover;*/
+		background-repeat: no-repeat;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
